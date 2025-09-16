@@ -79,6 +79,11 @@ async function createQuestion({
 
   await wait();
 
+
+  answers[0].querySelector('button.select_answer_link').click();
+  await wait();
+
+
   // set correct answers
   for (const ans of correctAnswers) {
     if (answers[ans]) {
@@ -105,6 +110,8 @@ async function createQuestion({
   await wait();
   console.log("Question Created");
 }
+
+window.createQuestion = createQuestion;
 
 /*
 createQuestion({

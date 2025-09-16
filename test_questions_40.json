@@ -1,0 +1,362 @@
+[
+  {
+    "questionTitle": "Question 001",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "What is the capital of Canada?",
+    "answerChoices": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 002",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the primary colors.",
+    "answerChoices": ["Red", "Green", "Blue", "Yellow"],
+    "correctAnswers": [0, 2, 3],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 003",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "The sky is blue.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 004",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which animal barks?",
+    "answerChoices": ["Cat", "Mouse", "Dog", "Bird"],
+    "correctAnswers": [2],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 005",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the even numbers.",
+    "answerChoices": ["1", "2", "3", "4", "5"],
+    "correctAnswers": [1, 3],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 006",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Water boils at 100°C.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 007",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "What color is the sun?",
+    "answerChoices": ["Blue", "Yellow", "Red", "Green"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 008",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the fruits.",
+    "answerChoices": ["Carrot", "Apple", "Banana", "Potato"],
+    "correctAnswers": [1, 2],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 009",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "The earth is flat.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 010",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which gas do plants absorb?",
+    "answerChoices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswers": [1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 011",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select countries that are in Europe.",
+    "answerChoices": ["Brazil", "France", "China", "Germany", "Canada"],
+    "correctAnswers": [1, 3],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 012",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Humans can breathe underwater unaided.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 013",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "How many legs does a spider have?",
+    "answerChoices": ["6", "8", "10", "12"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 014",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select prime numbers.",
+    "answerChoices": ["2", "3", "4", "5", "6"],
+    "correctAnswers": [0, 1, 3],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 015",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "The moon is made of cheese.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 016",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which is a mammal?",
+    "answerChoices": ["Shark", "Dolphin", "Octopus", "Lizard"],
+    "correctAnswers": [1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 017",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the months with 31 days.",
+    "answerChoices": ["January", "February", "March", "April", "July"],
+    "correctAnswers": [0, 2, 4],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 018",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Light travels faster than sound.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 019",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "What year did the WW2 end?",
+    "answerChoices": ["1940", "1945", "1950", "1960"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 020",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the programming languages.",
+    "answerChoices": ["Python", "JavaScript", "HTML", "CSS"],
+    "correctAnswers": [0, 1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 021",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Electricity is dangerous.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 022",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which is a fruit?",
+    "answerChoices": ["Tomato", "Carrot", "Potato", "Onion"],
+    "correctAnswers": [0],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 023",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the continents.",
+    "answerChoices": ["Asia", "Europe", "Africa", "Greenland"],
+    "correctAnswers": [0, 1, 2],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 024",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Water is wet.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 025",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which ocean is the largest?",
+    "answerChoices": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 026",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the prime colors.",
+    "answerChoices": ["Red", "Green", "Blue", "Cyan"],
+    "correctAnswers": [0, 2],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 027",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Fire is cold.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 028",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which animal is a reptile?",
+    "answerChoices": ["Frog", "Snake", "Dolphin", "Eagle"],
+    "correctAnswers": [1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 029",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select colors in the rainbow.",
+    "answerChoices": ["Red", "Black", "Orange", "Purple"],
+    "correctAnswers": [0, 2, 3],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 030",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Humans have wings.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [1],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 031",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "What is 5 + 5?",
+    "answerChoices": ["9", "10", "11", "12"],
+    "correctAnswers": [1],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 032",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the vowels.",
+    "answerChoices": ["A", "E", "I", "O", "U"],
+    "correctAnswers": [0, 1, 2, 3, 4],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 033",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Water freezes at 0°C.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 034",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which metal is shiny?",
+    "answerChoices": ["Iron", "Copper", "Aluminum", "Lead"],
+    "correctAnswers": [2],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 035",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the continents named with 'A'.",
+    "answerChoices": ["Asia", "Europe", "Antarctica", "Africa"],
+    "correctAnswers": [0, 2, 3],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 036",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Electric charge is positive.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 037",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "What is the boiling point of water (°C)?",
+    "answerChoices": ["50", "75", "100", "150"],
+    "correctAnswers": [2],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 038",
+    "questionType": "multiple_answers_question",
+    "points": 1,
+    "questionText": "Select the even numbers below 10.",
+    "answerChoices": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+    "correctAnswers": [1,3,5,7],
+    "nurs": false
+  },
+  {
+    "questionTitle": "Question 039",
+    "questionType": "true_false_question",
+    "points": 1,
+    "questionText": "Bats are mammals.",
+    "answerChoices": ["True", "False"],
+    "correctAnswers": [0],
+    "nurs": true
+  },
+  {
+    "questionTitle": "Question 040",
+    "questionType": "multiple_choice_question",
+    "points": 1,
+    "questionText": "Which animal is a bird?",
+    "answerChoices": ["Whale", "Eagle", "Tiger", "Frog"],
+    "correctAnswers": [1],
+    "nurs": false
+  }
+]

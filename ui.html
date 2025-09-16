@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas Question Bank from Word Doc</title>
+    <style>
+        body { font-family: Arial, sans-serif; width: 300px; padding: 10px; }
+        input, button { width: 100%; margin-top: 10px; }
+        #status { margin-top: 15px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Canvas Question Bank from Word Document</h2>
+    <input type="file" id="fileInput" accept=".json, .docx">
+    <button id="start">Start</button>
+    <div id="status"></div>
+
+    <section id="log" style="
+  margin-top: 20px;
+  height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f9f9f9;
+  font-family: monospace;
+  font-size: 13px;">
+
+  <h3>Log:</h3>
+    <div id="logContainer"></div>
+
+    </section>
+
+    <section id="error" style="
+  margin-top: 20px;
+  height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f9f9f9;
+  font-family: monospace;
+  font-size: 13px;">
+
+  <h3>Errors:</h3>
+    <div id="errorContainer"></div>
+
+    </section>
+
+    <script src="getdata.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Canvas Question Banker",
+  "version": "1.0",
+  "description": "Automate Canvas question bank creation",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "ui.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://canvas.ubc.ca/courses/*/question_banks/*"],
+      "js": ["workflow.js", "contentScript.js"]
+    }
+  ]
+}
