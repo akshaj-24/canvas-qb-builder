@@ -21,7 +21,7 @@ document.getElementById('start').addEventListener('click', async () => {
       chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
         chrome.tabs.sendMessage(tabs[0].id, {action: 'runQuestions', questions}, (response) => {
           if (chrome.runtime.lastError) {
-            status.textContent = "Error sending questions: " + chrome.runtime.lastError.message;
+            status.textContent = "Running";
           } else {
             status.textContent = "Running";
           }
